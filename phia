@@ -203,9 +203,13 @@ function showPage(page) {
     <div class="about-box">
         <div class="about-title">About Me</div>
         <p style="font-size:18px; line-height:1.8;">
-            HI EVERYONEEE!!<br><br>
-            My Name is Franchesca Sophia but everyone used to call me PHIA. My Age is greater-than 18 but less-than 25
-I live in Taguig City. Studying Bachelor in Technical Vocational Teacher Education Major in Computer System Servicing and Currently an NCII holder.
+            This section contains the full details about me, myself, and I.<br><br>
+           Hi, I’m Franchesca Sophia Tamani, but everyone calls me Phia — and I like it that way. I’m 21, born and raised in Taguig City, 
+and a proud SHS graduate with honors. I live life with a simple motto: YOLO. I’m a firm believer in “take the risk or lose the chance,” 
+and honestly, that’s how I move through the world — always curious, always willing to try, even if it scares me a little. My vibe is sage green — calm, 
+soft, and grounding. My hobbies? They shift with my mood. Some days I’m all in, some days I’m quiet, but I’m always me. And yes…
+I absolutely don’t eat vegetables. I’m a mix of spontaneity, softness, and a little bit of chaos — but in the best way. 
+I’m still growing, still exploring, still taking risks. Because life’s too short to play it safe.
         </p>
     </div>
 </section>
