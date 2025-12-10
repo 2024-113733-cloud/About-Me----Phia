@@ -194,7 +194,7 @@ function showPage(page) {
 <!-- COVER -->
 <section id="cover" class="active cover">
     <div class="cover-title">ABOUT ME</div>
-    <img src="https://via.placeholder.com/300x380" alt="Your Photo">
+    <img src="blob:https://www.messenger.com/b8b7e1e8-41c8-48bb-a661-f05b33672b7a" alt="just me^^">
     <div class="cover-sub">Let's get to know me!</div>
 </section>
 
